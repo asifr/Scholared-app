@@ -1,0 +1,15 @@
+﻿<Properties MonoDevelop.MonoMac.LastXamMacNagTime="8/12/2014 1:18:06 AM">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Scholared/MainWindowController.cs">
+    <Files>
+      <File FileName="Scholared/Main.cs" Line="1" Column="1" />
+      <File FileName="Scholared/MainWindow.cs" Line="1" Column="1" />
+      <File FileName="Scholared/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="Scholared/MainWindowController.cs" Line="25" Column="25" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
